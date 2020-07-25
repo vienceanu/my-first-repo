@@ -1,28 +1,14 @@
-# This is a large heading
+# Vlad Ienceanu
 
-## This is a smaller heading
+## Geography
+I currently live in Canada, and I am going abck to school to study Computer Science.
+I am currently doing this to be able to pursue better career oppurtunities and ensure I can stay ahead of the ever changing world. Currently I am writing this for a Coursera course in Unix from Hopkins University. 
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Reading
 
-- This is
-- an unordered
-- list
+I am currently reading Metro 2033, and will continue with the other Metro books.
 
-1. This is
-2. an ordered
-3. list
 
-Here is `some code` in the middle of a sentence.
+### Contact
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+The best way to contact me is through my email at vladienceanu@gmail.com
